@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
-* [ ] A party size prompt that also allows the user to see per-person totals
+* [x] A party size prompt that also allows the user to see per-person totals
 
 ## Video Walkthrough
 
