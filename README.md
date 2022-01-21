@@ -30,9 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/SKtzIIqFy9.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co).
 
 ## Notes
 
@@ -40,7 +40,7 @@ Describe any challenges encountered while building the app.
   Orignally using a stepper to implement a party size counter added additional challenges I did not anticipate. This resulted in me opting for a blank text box to allow the user to enter the party size themselves, which is arguably quicker.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Nabhan Tariq]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
